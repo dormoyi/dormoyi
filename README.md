@@ -32,4 +32,4 @@ I'm excited about the new possibilities that technology is providing us to solve
 ![Scala](https://img.shields.io/badge/-Scala-red?style=flat-square&logo=scala)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bruno-rose&count_private=true&show_icons=true&include_all_commits=true&hide)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bruno-rose&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark&bg_color=00000000)
