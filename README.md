@@ -8,7 +8,9 @@ I'm excited about the new possibilities that technology is providing us to solve
 
 - 💻 My current project involves building a framework to create private data abstractions for big data.
 
-- 📝 I had the opportunity to complete half of my studies abroad at [Centrale Supélec](https://www.centralesupelec.fr/).
+- 📝 I had the opportunity to complete half of my studies abroad at [Centrale Supélec](https://www.centralesupelec.fr/), Paris.
+
+- ⌨️ I worked part-time as a software developer at [PSINet](https://psinet.cl/) for a year.
 
 - ✨ Additionally, I undertook a 6-month musical and educational project in three countries across South America.
 
