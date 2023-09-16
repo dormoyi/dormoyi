@@ -16,7 +16,7 @@ My research interests are transfer learning, foundational models, and causal inf
 
 - 🌍 I am French and Spanish, have lived and worked in three countries, and am consistently eager to explore new places and engage in cultural exchange experiences.
 
-
+      
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
