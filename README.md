@@ -1,14 +1,12 @@
 ### Hi, I'm Ines <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
-I'm a data scientist who is passionate about multiculturalism, running, and playing the piano and saxophone.
+I'm an ML Engineer currently building Multimodal Deep Learning Foundational Models and scalable infrastructure for AI Perception systems at Waymo.
 
-My research interests are transfer learning, foundational models, and causal inference.
+- 🎓 I graduated with a Master's defree from the  [ICME department at Stanford University](https://icme.stanford.edu/) in 2024.
 
-- 🎓 I am a second year Data Science MS student in the [ICME department at Stanford University](https://icme.stanford.edu/).
+- 📊 I worked as a research assistant at [Summer Han Lab](https://med.stanford.edu/summerhanlab.html), where I work on evaluating the efficacy of surveillance strategies for lung cancer patients with causal inference and deep learning. 
 
-- 📊 I am currently a research assistant at [Summer Han Lab](https://med.stanford.edu/summerhanlab.html), where I work on evaluating the efficacy of surveillance strategies for lung cancer patients with causal inference and deep learning. 
-
-- :syringe: Over the past year, I worked as a research assistant at [Boussard Lab](https://med.stanford.edu/boussard-lab.html), where I finetuned a BERT model for delirium identification in unstructured data.
+- :syringe: Before that, I worked as a research assistant at [Boussard Lab](https://med.stanford.edu/boussard-lab.html), where I finetuned a BERT model for delirium identification in unstructured data.
 
 - 🎓 I completed my math & engineering undergraduate studies at [Centrale Supélec](https://www.centralesupelec.fr/) and [Lycée privé Sainte Geneviève](https://www.bginette.com/), near Paris.
 
